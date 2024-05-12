@@ -24,13 +24,16 @@ A Python-based framework simulating multi-agent conversations to deliver strateg
 2. **Multiple Experts:**
    - Engages multiple virtual experts in the discussion, each with unique specializations tailored to current needs.
 
-3. **Dynamic Expert Generation:**
+3. **Pre-Configured Company Characters:**
+   - Incorporates virtual experts with specific knowledge of the company’s history and internal data, enhancing strategic discussions with contextual accuracy and relevance.
+
+4. **Dynamic Expert Generation:**
    - Automatically creates new experts and prompts based on your initial question and conversation context.
 
-4. **Comprehensive Summary:**
+5. **Comprehensive Summary:**
    - Provides a clear summary of the conversation, highlighting key themes and actionable recommendations.
 
-5. **Optimized and Maintainable Prompts:**
+6. **Optimized and Maintainable Prompts:**
    - Prompts have been meticulously engineered (10,000+ characters across 8 prompts) to ensure relevance while maintaining clarity and specificity.
    - Metrics like lexical diversity (>0.4) and token count (average 400 tokens per prompt) were reviewed for delivering effective instructions.
 
